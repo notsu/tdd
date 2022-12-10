@@ -54,7 +54,7 @@
     "babel-preset-env": "^1.7.0",
     "braces": "^3.0.2",
     "compression": "^1.7.3",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "glob-parent": "^6.0.1",
     "helmet": "^4.6.0",
     "set-value": "^4.1.0"
