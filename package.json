@@ -52,7 +52,7 @@
     "babel-plugin-module-resolver": "^5.0.0",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-env": "^1.7.0",
-    "braces": "^3.0.2",
+    "braces": "^3.0.3",
     "compression": "^1.7.4",
     "express": "^4.19.2",
     "glob-parent": "^6.0.2",
